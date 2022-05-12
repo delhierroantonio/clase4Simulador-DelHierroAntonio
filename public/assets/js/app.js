@@ -68,6 +68,5 @@ function totalPrice() {
         break;
     }
 }
-// main
 
 totalPrice();
